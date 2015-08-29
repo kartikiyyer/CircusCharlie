@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LevelContext()
+comment1.params=strategy
+comment1.target=void\ changeStrategy(IStrategy)
+comment2.params=
+comment2.target=void\ setSpeed()
+numComments=3
